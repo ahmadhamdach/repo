@@ -3,3 +3,9 @@
 }
 
 /* Add your own CSS code below */
+.text1{
+  text-align:center;
+}
+.text2{
+  align-self:center;
+}
