@@ -1,5 +1,16 @@
-.countries {
-  display: flex;
-}
+
 
 /* Add your own CSS code below */
+.ol1{
+  color:blue;
+}
+.ol2{
+  color:red;
+}
+.ol3{
+  color:purple;
+
+}
+ol{
+  text-align:right;
+}
